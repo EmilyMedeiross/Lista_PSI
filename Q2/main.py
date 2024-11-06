@@ -13,6 +13,7 @@ if __name__ == "__main__":
     q5 = input("Preço:")
     q6 = input('Código:')
     produto = Produto(q4,q5,q6)
+    
     print(cliente.__dict__)
     print(produto.__dict__)
 
