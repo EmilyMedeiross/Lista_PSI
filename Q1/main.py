@@ -21,7 +21,6 @@ if __name__ == "__main__":
          """)
     
     operacao = input('Digite a operação que deseja realizar:').upper()
-    
     lchave = operacao[0]
 
 
