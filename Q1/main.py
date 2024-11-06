@@ -1,6 +1,9 @@
 import funcoes
 from funcoes import *
 
+""" 1. Criar um módulo python que possui 4 operações matemáticas. O módulo deve ser importando em um
+script principal para realizar as operações."""
+
 #Teste - VIA CMD 
 
 """
